@@ -1,4 +1,4 @@
-## Integrade our code with OpenAI API
+## Integrate our code with OpenAI API
 import os
 from constants import openai_key
 from langchain.llms import OpenAI
